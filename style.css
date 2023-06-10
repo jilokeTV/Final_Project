@@ -1,1 +1,144 @@
+body {
+    font-family: sans-serif;
+    width: 100%;
+    height: 4454px;
+    background-color: #DCDCDC;
+}
+.logo{
+    position: absolute;
+    width: 123px;
+    height: 123px;
+    top: 54px;
+    left: 26px;
+    border-radius: 15px;
 
+}
+nav a{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    width: 124px;
+    height: 38px;
+    margin: 15px 30px 15px 30px;
+    background-color: darkviolet;
+    padding: 15px;
+    border-radius: 15px;
+    text-decoration: none;
+    color: black;
+}
+.map{
+    margin: auto;
+}
+footer{
+    background-color: #FFE700;
+    width: 100%;
+    height: 320px;
+}
+.h1 {
+    text-align: center;
+    padding: 25px 0px 25px 0px;
+}
+.h12{
+    color: black;
+    font-size: 35px;
+    margin: 20px;
+}
+.footerh1{
+    text-align: right;
+    padding: 20px 10px 20px 10px;
+}
+header{
+    background-color: #FFF273;
+    height: 170px;
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+}
+.a:hover{
+    color: orange;
+    border: 5px double violet;
+    transition: all 1s ease-out;
+}
+.pro{
+    margin: 95px 325px 61px 86px;
+    color: red;
+}
+.catalog_h1{
+    text-align: center;
+    color: darkgreen;
+}
+.reviews_h1{
+    text-align: center;
+}
+.map_h1{
+    text-align: center;
+    color: crimson;
+    margin: 145px 0 0 0;
+}
+.h14{
+    color: black;
+    font-size: 35px;
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+}
+.review_img1{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+}
+.review_img2{
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+}
+.pro_p{
+    margin: 20px;
+}
+.a_img{
+    width: 74px;
+    height: 74px;
+    padding: 0px 0px 0px 0px;
+    border-radius: 10px;
+}
+.a_img:hover{
+    margin: 15px;
+    transition: all 0.5s ease-in;
+}
+.pro_p:hover{
+    font-size: 20px;
+    transition: font-size 0.5s ease;
+}
+.review{
+    font-size: 15px;
+    color: brown;
+    margin: 5px 0 0 5px;
+}
+.span{
+    color: darkred;
+    font-size: 25px;
+}
+.span:hover{
+    font-size: 30px;
+    transition: all 0.5s ease-in-out;
+}
+.reviews{
+    height: 300px;
+    width: 100%;
+}
+.review2{
+    font-size: 15px;
+    margin: 110px 0 0 5px;
+    color: chocolate;
+}
+.p_img_5{
+    width: 100%px;
+    height: 350px;
+    text-align: center;
+}
+.catalog_img{
+    width: 350px;
+    height: 450px;
+    text-align: center;
+}
